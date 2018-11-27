@@ -1,0 +1,5 @@
+name: LWForm
+type: module
+description: 'Learning to alter a form with a hook'
+core: 8.x
+package: 'LW Examples'
